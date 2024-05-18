@@ -17,7 +17,14 @@ This is a simple banking system with features such as creating accounts, withdra
 * Testing Framework: Jest
 
 ## Final Notes
-Hi, Andrew and Ming! I just wanted to say thank you for taking the time to interview me on Thursday, I enjoyed our conversations and it was an overall very pleasant experience. I'm incredibly grateful for this opportunity and I look forward to next steps! 
+Hi Victor,
+
+Thank you for the opportunity to complete this assignment. Hope you are enjoying the weekend, and I look forward to the chance to meet you in the future! Please extend my regards to Andrew and Ming. It was an incredibly pleasant experience talking to them, and I truly appreciated the time they took to interview me.
+
+If you have any questions or need further clarifications, please feel free to reach out! 
+
+All the best, 
+Ayden
 
 
 
